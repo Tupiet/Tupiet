@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! 
+
+Feel free to use whatever you need from here, and if you want to contribute to anything, just do a pull request.
+
+
 <!--
 **Tupiet/Tupiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
